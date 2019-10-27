@@ -1,0 +1,6 @@
+{
+  "equation": "f(x, y) = (x*y - y + x)",
+  "highBorder": 10,
+  "lowBorder": 0,
+  "step": 0.01
+}
